@@ -1,0 +1,22 @@
+Recap -
+
+What is FRAMEWORK?
+It gives us an unorganized folder structure to follow while writing the code.
+
+Benefits of Framework -
+ -- It increases code usability , readability, easy to maintain
+
+ Maven -
+    -- it is a building automation tool
+
+USER stories -- 12345 - user should be able to login via valid credentials
+
+US - 87978 - Admin user should be able to add an employee to the hrms application
+
+US - 34342 -- system should display error messages when invalid  login is performed
+1. when user enter valid/invalid username and valid /invalid password then display "invalid credentials"
+
+2. when user leaves password field empty then display "Password cannot be empty"
+
+3. when user leaves username field empty then display "Username cannot be empty"
+
