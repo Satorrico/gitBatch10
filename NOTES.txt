@@ -1,4 +1,4 @@
-
+notes txt 
 
 What is FRAMEWORK?
 It gives us an unorganized folder structure to follow while writing the code.
